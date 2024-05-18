@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-keyla
+service: serverless-calculate-bmi-keyla2
 
 provider:
   name: google
